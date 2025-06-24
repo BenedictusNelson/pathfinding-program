@@ -38,7 +38,7 @@ The project includes stub implementations that allow it to run without external 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/BenedictusNelson/pathfinding-program.git
 cd pathfinding-program
 ```
 
